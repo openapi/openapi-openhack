@@ -10,7 +10,7 @@
 [![Status](https://img.shields.io/badge/status-coming_soon-8a2be2?style=for-the-badge)](https://github.com/openapi/openapi-openhack/issues/1)
 [![Useless is welcome](https://img.shields.io/badge/useless-is_welcome-2ea44f?style=for-the-badge)](#)
 
-🇬🇧 **English** · 🇮🇹 [Italiano](README_IT.md)
+🇬🇧 **English** · 🇮🇹 [Italiano](README.it.md)
 
 </div>
 
