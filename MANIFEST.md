@@ -149,11 +149,11 @@ It only needs to be **interesting**.
 
 ---
 
-# Serious APIs, unserious projects
+# Serious APIs, curious projects
 
 A possible informal motto for the initiative is:
 
-> **Serious APIs. Unserious projects.**
+> **Serious APIs. Curious projects.**
 
 Another useful expression of the philosophy is:
 
@@ -570,7 +570,7 @@ Working name:
 
 Possible short description:
 
-> **🧪 Serious APIs, unserious projects. A playground for hackers, makers and curious developers experimenting with Openapi.**
+> **🧪 Serious APIs, curious projects. A playground for hackers, makers and weekend developers experimenting with Openapi.**
 
 Possible longer tagline:
 

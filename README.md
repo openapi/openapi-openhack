@@ -2,7 +2,7 @@
 
 # 🧪 OpenHack
 
-### Serious APIs. Unserious projects.
+### Serious APIs. Curious projects.
 
 **A playground for hackers, makers and curious developers experimenting with [@Openapi®](https://github.com/openapi)**
 
@@ -92,6 +92,8 @@ Then **Subscribe** 🔔 to the issue and **Watch** ⭐ this repo. News is coming
 ---
 
 ## 🇮🇹 Italiano
+
+> **API serie. Progetti curiosi.**
 
 > **Le API enterprise non sono state pensate per chi smanetta nel weekend.**
 > **Secondo noi è un ottimo motivo per giocarci.**
